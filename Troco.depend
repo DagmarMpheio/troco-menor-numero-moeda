@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618160272 source:c:\users\dagmar mpheio\documents\c\troco\main.c
+	<stdio.h>
+	<stdlib.h>
+
